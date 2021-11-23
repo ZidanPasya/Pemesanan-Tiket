@@ -2,11 +2,11 @@
 #include <conio.h>
 using namespace std;
 
-/* UTP'21 KELOMPOK 8 KELAS C S1-ILKOMP --- "Tiket Bioskop"
-1. Muhammad Zidan Pasya--2117051070
-2. Kartika Sari--2117051039
-3. Ferisna Yanti Hima--2117051056
-*/
+// UTP'21 KELOMPOK 8 KELAS C S1-ILKOMP --- "Tiket Bioskop"
+// 1. Muhammad Zidan Pasya--2117051070
+// 2. Kartika Sari--2117051039
+// 3. Ferisna Yanti Hima--2117051056
+
 
 void pilihan(){
 	system("color 6");
